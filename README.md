@@ -5,9 +5,14 @@ Vínculos com Loja Virtual, cadastro de produtos e pedido de Cliente
 
 Tecnologias utilizadas:
 
-Java
+Java 
+
 Spring Boot
+
 JPA
+
 MySQL
+
 Clean architecture
+
 POO (Programação Orientada a Objetos)
