@@ -1,7 +1,7 @@
 # LojaVirtual
 Projeto realizado por Ana Carolina Mello Moreti:
 
-Vínculos com Loja Virtual, cadastro de produtos e pedido de Cliente 
+Vínculos de Loja Virtual, cadastro de produtos e pedido de Cliente 
 
 Tecnologias utilizadas:
 
